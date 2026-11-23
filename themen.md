@@ -4,8 +4,8 @@ Jeden Tag die oberste offene Zeile. Erledigte mit `[x]` und Datum markieren. Neu
 Nur wahre Geschichten (Legenden als Legenden kennzeichnen). Mischung aus Epochen und Personen.
 
 - [x] Archimedes und die goldene Krone – Heureka (2026-11-22)
-- [ ] Der kleine Gauss addiert 1 bis 100 in der Schule
-- [ ] Eratosthenes misst den Erdumfang mit einem Schatten
+- [x] Der kleine Gauss addiert 1 bis 100 in der Schule (2026-11-23)
+- [x] Eratosthenes misst den Erdumfang mit einem Schatten (2026-11-24)
 - [ ] Hippasos und die irrationale Wurzel aus 2 (Legende: über Bord geworfen)
 - [ ] Euler und die sieben Brücken von Königsberg
 - [ ] Fibonacci und die Kaninchen-Aufgabe (Liber Abaci, 1202)
