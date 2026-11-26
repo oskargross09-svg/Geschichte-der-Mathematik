@@ -1,0 +1,10 @@
+CLIENT_ID: gesetzt
+CLIENT_SECRET: gesetzt
+YOUTUBE_REFRESH_TOKEN: gesetzt
+job: videos/2026-11-27_fibonacci-kaninchen.json
+run: 20261126T235241
+Fertig: https://youtu.be/pjvYbA3Dq9w
+Status: private
+VIDEO_ID=pjvYbA3Dq9w
+Veröffentlichung geplant: 2026-11-27T16:00:00Z
+rc=0
