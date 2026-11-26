@@ -7,7 +7,7 @@ Nur wahre Geschichten (Legenden als Legenden kennzeichnen). Mischung aus Epochen
 - [x] Der kleine Gauss addiert 1 bis 100 in der Schule (2026-11-23)
 - [x] Eratosthenes misst den Erdumfang mit einem Schatten (2026-11-24)
 - [x] Hippasos und die irrationale Wurzel aus 2 (Legende: über Bord geworfen) (2026-11-25)
-- [ ] Euler und die sieben Brücken von Königsberg
+- [x] Euler und die sieben Brücken von Königsberg (2026-11-26)
 - [ ] Fibonacci und die Kaninchen-Aufgabe (Liber Abaci, 1202)
 - [ ] Ramanujans Brief an Hardy und die Taxi-Zahl 1729
 - [ ] Fermats Randnotiz: „Der Rand ist zu schmal“
