@@ -1,0 +1,10 @@
+CLIENT_ID: gesetzt
+CLIENT_SECRET: gesetzt
+YOUTUBE_REFRESH_TOKEN: gesetzt
+job: videos/2026-11-26_euler-koenigsberg.json
+run: 20261125T235940
+Fertig: https://youtu.be/khImR8K_egg
+Status: private
+VIDEO_ID=khImR8K_egg
+Veröffentlichung geplant: 2026-11-26T16:00:00Z
+rc=0
